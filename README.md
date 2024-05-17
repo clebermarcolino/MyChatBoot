@@ -6,4 +6,4 @@ Este projeto permite que você tenha conversas abertas e descontraídas com um m
 
 # Funcionalidades
 
-**.** Responder a perguntas de forma informativa e abrangente
++ Responder a perguntas de forma informativa e abrangente
