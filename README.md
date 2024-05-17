@@ -17,7 +17,7 @@ Este projeto permite que você tenha conversas abertas e descontraídas com um m
 
 1. Clone este repositório.
 2. Instale as dependências.
-3. Conecte sua chave api Google ao colab
+3. Conecte sua chave API Google ao colab
 4. Execute o script main.py.
 5. Digite suas perguntas ou comandos e pressione Enter.
 6. O ChatBoot responderá às suas solicitações e tentará o seu melhor para seguir suas instruções.
